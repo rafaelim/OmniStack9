@@ -6,7 +6,7 @@ services:
     build: 
       context: "packages/api"
     ports: 
-      - 3000:3000
+      - 5000:5000
     links:
       - mongo
     volumes:
