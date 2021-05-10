@@ -9,7 +9,7 @@
     "start:app:dev": "lerna exec --scope @aircnc/app -- yarn start"
   },
   "dependencies": {
-    "lodash": "4.17.15"
+    "lodash": "4.17.21"
   },
   "devDependencies": {
     "lerna": "^3.16.4"
